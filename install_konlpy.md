@@ -18,7 +18,7 @@
 https://konlpy-ko.readthedocs.io/ko/v0.5.1/install/#id2
 
 - 공홈의 Windows 설치 방법 따라 설치시 오류 발생하여 아래의 방법으로 설치 진행
-  - Error : PackagesNotFoundError (오류 관련 내용은 하단에 기재)
+  - Error : [PackagesNotFoundError](https://github.com/Journey-R/TIL/blob/master/Python/error_exception/Error_PackagesNotFoundError.md)
 
 
 
